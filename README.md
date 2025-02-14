@@ -2,9 +2,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=daffahilmyf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://wakatime.com/@018df4bb-584b-4518-9b6e-98eead7b4f15">
-    <img src="https://wakatime.com/badge/user/018df4bb-584b-4518-9b6e-98eead7b4f15.svg" alt="Total time coded since Feb 29 2024" />
-  </a>
 </p>
 
 ## 🚀 About Me  
