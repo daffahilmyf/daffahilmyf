@@ -2,6 +2,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=daffahilmyf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://wakatime.com/@018df4bb-584b-4518-9b6e-98eead7b4f15">
+    <img src="https://wakatime.com/badge/user/018df4bb-584b-4518-9b6e-98eead7b4f15.svg" alt="Total time coded since Feb 29 2024" />
+  </a>
 </p>
 
 ## 🚀 About Me  
@@ -58,6 +61,13 @@ I love building and breaking things to ensure software quality and reliability.
 🚧 **Code Auto Repair in Pipeline**  
 🔹 **Tech Stack:** _TypeScript, GitHub Actions_  
 🔹 **Status:** _Actively developing, testing, and maintaining_  
+
+## 📑 Published Research  
+
+| Title | Conference/Journal | Link |
+| --- | --- | --- |
+| **Experiences With Gap-Bridging Software Engineering Industry-Academia Collaborative Education Program** | 2023 IEEE 35th International Conference on Software Engineering Education and Training (CSEE&T) | [🔗 Read Here](https://ieeexplore.ieee.org/abstract/document/10229434/) |
+| **Naive Bayes Classification Model for Precondition-Postcondition in Software Requirements** | 2023 International Conference on Data Science and Its Applications (ICoDSA) | [🔗 Read Here](https://ieeexplore.ieee.org/abstract/document/10277397/) |
 
 ---
 
